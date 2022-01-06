@@ -7,6 +7,7 @@ en el camino estuve aprendiendo para ser Dev en Python, Data Analytic, Data Scie
 ## 📬 Get in touch
 
 - LinkedIn: [linkedin.com/in/leticiajmansillacrd](https://www.linkedin.com/in/leticiajmansillacrd/)
+- leticiajmansilla@hotmail.com
 
 
 
