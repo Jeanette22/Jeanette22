@@ -2,7 +2,9 @@
 
 ### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mis gustos en la tecnología e informática, mi objetivo es hacer mi carrera profesional en el mundo It: 
 Desde mi tecnicatura en infórmatica, trabajé en el sector y fui sumando desafíos. Durante la pandemia, estudié los roles que hay y comencé con cursos gratuitos y pagos, sobre Dev (Python), Data Analytic, Data Science, IA, bases de datos. Aún continuo mejorando mis skills para alcanzar mis expectativas! 🚀
-Igual mi paso por la universidad me brindo habilidaes sociales, de generacion de estrategias, proyectos, y mucha práctica en trabajo en equipo. Todo me suma en mi crecimiento personal!😁
+Igual mi paso por la universidad me brindo habilidades sociales, oratoria, desarrollo de estrategias, proyectos, y mucha práctica en el trabajo en equipo. 
+
+Todo me suma en mi crecimiento personal!😁
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Jeanette22">
