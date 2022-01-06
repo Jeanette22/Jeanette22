@@ -13,7 +13,7 @@ Desde mi tecnicatura en infórmatica, siempre fui sumando desafíos. Durante tod
 
 
 <div align="center">
-  <img align="left" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"                                                                         
+  <img align="left" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"                         <img align="left" alt="jsdelivr-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />                                                
 </div> 
   
 
