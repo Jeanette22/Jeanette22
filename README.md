@@ -24,15 +24,14 @@ Desde mi tecnicatura en infórmatica, siempre fui sumando desafíos. Durante tod
   <img align="left" alt="Wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
   <img align="left" alt="Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="left" alt="Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
-  <img align="rigth" alt="gif" height="200" width="350" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
-</div> 
-
-
+  <img align="right"alt="gif" height="100" width="200" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
+</div>
   
   
  ##
  ##
  ##
+  
  #### Contacto:  
 </div> 
  <a href = "mailto:leticiajmansilla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
