@@ -3,8 +3,13 @@
 ## Soy una apasionada de la tecnología e informática, mi objetivo hacer carrera en el mundo It: 
 Desde mi tecnicatura en infórmatica, siempre fui sumando desafíos. Durante todo este trayecto que empecé en pandemia, estuve aprendiendo con cursos gratuitos y pagos, sobre Dev (Python), Data Analytic, Data Science, bases de datos. Aún continuo mejorando mis skills para alcanzar mis expectativas! 🚀
 
+<div align="center">
+  <a href="https://github.com/Jeanette22">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jeanette22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanette22&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-
+##
 
 
 <div align="center">
