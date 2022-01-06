@@ -11,7 +11,7 @@ Desde mi tecnicatura en infórmatica, siempre fui sumando desafíos. Durante tod
 
 ##
 
-##### Herramientas digitales, tecnologias, lenguajes que manejo (algunas mejor que otras), y otras mejorando con aprendizaje a diario 🤓: 
+##### Herramientas digitales, tecnologias, lenguajes, librerias que manejo (algunas mejor que otras), y otras mejorando con aprendizaje a diario 🤓: 
 
 <div align="center">
   
