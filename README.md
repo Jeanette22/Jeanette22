@@ -1,8 +1,7 @@
-# 👋Hola!, como estás!? Bienvenido a mi perfil soy Leticia Jeanette Mansilla 👩‍💻
+# Hola!, como estás!? Bienvenido a mi perfil soy Leticia Jeanette Mansilla 👩‍💻
 
-## Soy una apasionada a la tecnología, mi objetivo hacer carrera en el mundo It: 
-Durante todo este trayecto que empecé, estuve aprendiendo  con cursos gratuitos y pagos, sobre Dev (Python), Data Analytic, Data Science, bases de datos,
-Aún sigo en proceso de aprendizaje, y continuo mejorando mis skills para alcanzar mis expectativas! 
+## Soy una apasionada de la tecnología e informática, mi objetivo hacer carrera en el mundo It: 
+Desde mi tecnicatura en infórmatica, siempre fui sumando desafíos. Durante todo este trayecto que empecé en pandemia, estuve aprendiendo con cursos gratuitos y pagos, sobre Dev (Python), Data Analytic, Data Science, bases de datos. Aún continuo mejorando mis skills para alcanzar mis expectativas! 🚀
 
 
 
