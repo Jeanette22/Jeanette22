@@ -2,6 +2,7 @@
 
 ### Soy una apasionada de la tecnología e informática, mi objetivo hacer carrera en el mundo It: 
 Desde mi tecnicatura en infórmatica, siempre fui sumando desafíos. Durante todo este trayecto que empecé en pandemia, estuve aprendiendo con cursos gratuitos y pagos, sobre Dev (Python), Data Analytic, Data Science, bases de datos. Aún continuo mejorando mis skills para alcanzar mis expectativas! 🚀
+Igual mi paso por la universidad me brindo habilidaes sociales, de generacion de estrategias, proyectos, y mucha práctica en trabajo en equipo. Todo me suma en este camino!
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Jeanette22">
