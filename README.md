@@ -11,7 +11,7 @@ Desde mi tecnicatura en infórmatica, siempre fui sumando desafíos. Durante tod
 
 ##
 
-##### Herramientas digitales, tecnologias, lenguajes, librerias que manejo (algunas mejor que otras), y otras mejorando con aprendizaje a diario 🤓: 
+#### Herramientas digitales, tecnologias, lenguajes, librerias que manejo (algunas mejor que otras), y otras mejorando con aprendizaje a diario 🤓: 
 
 <div align="center">
   
@@ -33,7 +33,7 @@ Desde mi tecnicatura en infórmatica, siempre fui sumando desafíos. Durante tod
  ##
  ##
  ##
-  
+ #### Contacto:  
 </div> 
  <a href = "mailto:leticiajmansilla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href = "LinkedIn"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
