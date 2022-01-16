@@ -1,10 +1,12 @@
 # Hola!, como estás!? Bienvenido a mi perfil soy Leticia Jeanette Mansilla 👩‍💻
 
 ### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mis gustos en la tecnología e informática, mi objetivo es hacer mi carrera profesional en el mundo It: 
-Soy técnica en informática, durante la pandemia empecé a estudiar los diferentes roles que hay hoy en día para aplicar. Comencé con cursos gratuitos sobre Dev (Python), Data Analytic, Data Science, IA, bases de datos. En el 2021 fui beneficiada para estudiar programacion básica e intermedio con Python (aún en proceso), por parte de un programa del Ministerio de trabajo y Trabajores informáticos, el mismo se desarrollo desde Julio y pretende continuar en Febrero.
-A la par realizó cursos de forma autodidacta para poner en práctica mis conocimientos en Python, y afianzar mis habilidades. 🚀
+Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos sobre Dev (Python), Data Analytic, Data Science, IA, bases de datos. 
+Afortunadamente, en el 2021 fui beneficiada en un sorteo para estudiar programacion básica e intermedio con Python (aún en proceso), por parte de un programa del Ministerio de trabajo y Trabajores informáticos, el mismo se desarrollo desde Julio y pretende continuar en Febrero.
 
-En mi paso por la universidad aprendí habilidades sociales, de oratoria, desarrollo de estrategias, proyectos, trabajar con equipos multidisciplinarios, lo que me dio mucha práctica en el trabajo en equipo. Aunque vengo de las Cs.Sociales, considero que igual fue importante todo lo que aprendí en esta etapa. 
+A la par de esto, siempre realicé cursos de forma autodidacta para poner en práctica mis conocimientos en Python, programación, bases de datos, analisis de datos y así afianzar mis habilidades, y preferencias. 🚀
+
+En mi paso por la universidad aprendí habilidades sociales, de oratoria, desarrollo de estrategias, proyectos y trabajar con varios equipos multidisciplinarios, lo que me dio mucha práctica en el trabajo en equipo. Aunque vengo de las Cs.Sociales, considero que igual fue importante todo lo que aprendí en esta etapa. 
 
 Todo me suma en mi crecimiento personal!😁
 
