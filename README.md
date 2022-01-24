@@ -3,7 +3,7 @@
 ### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mis gustos en la tecnología e informática, mi objetivo es hacer mi carrera profesional en el mundo It: 
 ✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos sobre Dev (Python), Data Analytic, Data Science, IA, bases de datos. 
 #
-✔️ En el 2021 fui beneficiada en un sorteo para estudiar programacion básica e intermedio con Python (aún en proceso), por parte de un programa del Ministerio de trabajo y Trabajadores informáticos, el mismo se desarrollo desde Julio y pretende continuar en Febrero: vimos conceptos básicos, algoritmos, matematicas para prog, POO Python, etc.
+✔️ En el 2021 fui beneficiada en un sorteo para estudiar programacion básica e intermedio con Python (aún en proceso), por parte de un programa del Ministerio de trabajo y Trabajadores informáticos, el mismo se desarrollo desde Julio y pretende continuar en Febrero: vimos conceptos básicos, logica computacional, algoritmos, matematicas para prog, POO Python, etc.
 #
 ✔️Realicé cursos de forma autodidacta para poner en práctica mis conocimientos en Python, programación, bases de datos, analisis de datos y así afianzar mis habilidades, y preferencias. 🚀
 #
