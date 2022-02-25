@@ -21,7 +21,7 @@ Buena onda, y capacidad para seguir adelante no me faltaaan!😁
 
 ##
 
-#### Herramientas digitales, tecnologias, lenguajes, librerias que manejo (algunas mejor que otras), y otras mejorando con aprendizaje a diario 🤓: 
+#### Herramientas digitales, tecnologias, lenguajes, librerias que manejo (algunas mejor que otras), y otras mejorando con aprendizaje a diario  🤓: 
 
 <div align="center">
   
