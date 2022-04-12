@@ -1,17 +1,13 @@
-# Hola!, como estás!? Bienvenido a mi perfil soy Leticia Jeanette Mansilla 👩‍💻
+# Hola!, como estás!? Bienvenido a mi perfil soy Jeanette Mansilla 👩‍💻
 
-### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mis gustos en la tecnología e informática, mi objetivo es hacer mi carrera profesional en el mundo It: 
-✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos sobre Dev (Python), Data Analytic, Data Science, IA, bases de datos. 
+### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mis gustos en la tecnología e informática, mi objetivo es hacer carrera en el área Datos. Aunque también soy una entusiasta de UX Writing: 
+✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos: programación con lenguaje Python, Data Analytic, Data Science, IA, bases de datos. 🚀
 #
-✔️ En el 2021 fui beneficiada en un sorteo para estudiar programacion básica e intermedio con Python (aún en proceso), por parte de un programa del Ministerio de trabajo y Trabajadores informáticos, el mismo se desarrollo desde Julio y pretende continuar en Febrero: vimos conceptos básicos, logica computacional, algoritmos, matematicas para prog, POO Python, etc.
-#
-✔️Realicé cursos de forma autodidacta para poner en práctica mis conocimientos en Python, programación, bases de datos, analisis de datos y así afianzar mis habilidades, y preferencias. 🚀
-#
-✔️ Actualmente realizando las rutas de aprendizaje de Platzi. 
+✔️ Actualmente estoy realizando las rutas de aprendizaje de Platzi: Data Analytic, Ingenieria de datos y Data Science
 
-👩‍🎓En mi paso por la universidad aprendí habilidades sociales, de oratoria, desarrollo de estrategias, proyectos y trabajar con varios equipos multidisciplinarios, lo que me dio mucha práctica en el trabajo en equipo. Aunque vengo de las Cs.Sociales, considero que igual fue importante todo lo que aprendí en esta etapa. 
+👩‍🎓En mi paso por la universidad aprendí habilidades sociales, de oratoria, desarrollo de estrategias, proyectos y trabajé con varios equipos multidisciplinarios, lo que me brindo mucha práctica en el trabajo en equipo. Aunque vengo de las Cs.Sociales, considero que igual fue importante todo lo que aprendí en esta etapa. 
 
-Buena onda, y capacidad para seguir adelante no me faltaaan!😁
+La curiosidad alimenta mis ganas de seguir creciendo y aprendiendo! 😁
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Jeanette22">
