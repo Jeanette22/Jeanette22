@@ -1,6 +1,6 @@
 # Hola!, como estás!? Bienvenido a mi perfil soy Jeanette Mansilla 👩‍💻
 
-### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mis gustos en la tecnología e informática, mi objetivo es hacer carrera en el área Datos. Aunque también soy una entusiasta de UX Writing: 
+### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mis gustos en la tecnología e informática, mi objetivo es hacer carrera en el área Datos.  
 ✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos: programación con lenguaje Python, Data Analytic, Data Science, IA, bases de datos. 🚀
 #
 ✔️ Actualmente estoy realizando las rutas de aprendizaje de Platzi: Data Analytic, Ingenieria de datos y Data Science
