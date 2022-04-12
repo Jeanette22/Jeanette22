@@ -6,7 +6,7 @@
 ✔️ Estuve en un bootcamp de programación básica - lenguaje Python| fecha: 2020. Lugar: E- learning - Ministerio de trabajo- grupo informaticos Arg.
 - 2022 | DataCamp: Proyecto final Data Science: analisis exploratorio, interpretación estadistica, storytelling. (Repositorio) 
 #
-✔️ Actualmente estoy realizando las rutas de aprendizaje de Platzi: Data Analytic, Ingenieria de datos y Data Science
+✔️ Actualmente estoy realizando las rutas de aprendizaje de Platzi: Data Analytic, Ingenieria de datos y Data Science. Prácticando SQL, y otros complemento en diferentes páginas webs / talleres.
 
 👩‍🎓En mi paso por la universidad aprendí habilidades sociales como de oratoria, desarrollo de estrategias, proyectos y trabajé con varios equipos multidisciplinarios- Aunque vengo de las Cs.Sociales, considero que igual fue importante todo lo que aprendí en esta etapa y me dio visión de negocios.
 
