@@ -1,6 +1,6 @@
 # Hola!, como estás!? Bienvenido a mi perfil soy Jeanette Mansilla 👩‍💻
 
-### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mis gustos en la tecnología e informática, mi objetivo es hacer carrera en el área Datos, elegí especializarme en este área porqué  me entusiasma todo lo que se puede hacer con ello y los proyectos ! 
+### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología e informática. Mi objetivo es hacer carrera en el área Datos, por eso elegí especializarme en este área porqué  me entusiasma todo lo que se puede hacer con ello y los proyectos de diversa áreas que se pueden desarrollar ! 
 ✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos: programación con lenguaje Python, Data Analytic, Data Science, IA, bases de datos. 🚀
 #
 ✔️ Estuve en un bootcamp de programación básica - lenguaje Python| fecha: 2020. Lugar: E- learning - Ministerio de trabajo- grupo informaticos Arg.
