@@ -10,7 +10,7 @@
 
 👩‍🎓 Me recibí de Lic en Turismo en el 2019 aprendí habilidades sociales como de oratoria, desarrollo de estrategias, proyectos y trabajé con varios equipos multidisciplinarios- La visión de negocios y toda la experiencia que me dio este sector me permitió ser Co-founder de "Caleta Conectada", junto a dos colegas más donde realizamos trabajos de Consultoría: Marketing, promoción, planificación de proy. Desarrollo de tareas UX writing.
 
-La razón por la qué decidí especializarmé en el área de Datos, fue porqué las habilidades técnicas que aprendas puede volcarse en proyectos genericos, y como estuve involucrada en varios proyectos me entusiasma descubrir nuevos nichos, resolver problemas y ofrecer soluciones con un buen manejo de datos. 
+✔️La razón por la qué decidí especializarmé en el área de Datos, fue porqué las habilidades técnicas que aprenda puedo usarlos en proyectos genericos, y como estuve ya involucrada en varios me entusiasma la idea de descubrir nuevos nichos, resolver problemas y ofrecer soluciones con un buen manejo de datos. 
 
 - La curiosidad por aprender y mejorar las aplico día a día! 😁
 
