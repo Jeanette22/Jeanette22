@@ -1,6 +1,6 @@
 # Hola!, como estás!? Bienvenido a mi perfil soy Jeanette Mansilla 👩‍💻
 
-### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología e informática. Mi objetivo es hacer carrera en el área Datos, por eso elegí especializarme en este área porqué  me entusiasma todo lo que se puede hacer con ello y los proyectos de diversa áreas que se pueden desarrollar ! 
+### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología e informática. Mi objetivo es hacer carrera en el área Datos! 
 ✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos: programación con lenguaje Python, Data Analytic, Data Science, IA, bases de datos. 🚀
 #
 ✔️ Estuve en un bootcamp de programación básica - lenguaje Python| fecha: 2020. Lugar: E- learning - Ministerio de trabajo- grupo informaticos Arg.
@@ -8,9 +8,11 @@
 #
 ✔️ Actualmente estoy realizando las rutas de aprendizaje de Platzi: Data Analytic, Ingenieria de datos y Data Science. Prácticando SQL, y otros complemento en diferentes páginas webs / talleres.
 
-👩‍🎓En mi paso por la universidad aprendí habilidades sociales como de oratoria, desarrollo de estrategias, proyectos y trabajé con varios equipos multidisciplinarios- Aunque vengo de las Cs.Sociales, considero que igual fue importante todo lo que aprendí en esta etapa y me dio visión de negocios.
+👩‍🎓 Me recibí de Lic en Turismo en el 2019 aprendí habilidades sociales como de oratoria, desarrollo de estrategias, proyectos y trabajé con varios equipos multidisciplinarios- La visión de negocios y toda la experiencia que me dio este sector me permitió ser Co-founder de "Caleta Conectada", junto a dos colegas más donde realizamos trabajos de Consultoría: Marketing, promoción, planificación de proy. Desarrollo de tareas UX writing.
 
-La curiosidad por aprender y mejorar las aplico día a día! 😁
+La razón por la qué decidí especializarmé en el área de Datos, fue porqué las habilidades técnicas que aprendas puede volcarse en proyectos genericos, y como estuve involucrada en varios proyectos me entusiasma descubrir nuevos nichos, resolver problemas y ofrecer soluciones con un buen manejo de datos. 
+
+- La curiosidad por aprender y mejorar las aplico día a día! 😁
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Jeanette22">
