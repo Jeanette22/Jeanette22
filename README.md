@@ -5,9 +5,9 @@
 #
 ✔️ Actualmente estoy realizando las rutas de aprendizaje de Platzi: Data Analytic, Ingenieria de datos y Data Science
 
-👩‍🎓En mi paso por la universidad aprendí habilidades sociales, de oratoria, desarrollo de estrategias, proyectos y trabajé con varios equipos multidisciplinarios, lo que me brindo mucha práctica en el trabajo en equipo. Aunque vengo de las Cs.Sociales, considero que igual fue importante todo lo que aprendí en esta etapa. 
+👩‍🎓En mi paso por la universidad aprendí habilidades sociales como de oratoria, desarrollo de estrategias, proyectos y trabajé con varios equipos multidisciplinarios- Aunque vengo de las Cs.Sociales, considero que igual fue importante todo lo que aprendí en esta etapa y me dio visión de negocios.
 
-La curiosidad alimenta mis ganas de seguir creciendo y aprendiendo! 😁
+La curiosidad por aprender y mejorar las aplico día a día! 😁
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Jeanette22">
@@ -37,7 +37,7 @@ La curiosidad alimenta mis ganas de seguir creciendo y aprendiendo! 😁
  ##
  ##
  ##
-  
+ 
  #### Contacto:  
 </div> 
  <a href = "mailto:leticiajmansilla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
