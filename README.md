@@ -3,8 +3,8 @@
 ### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología e informática. Mi objetivo es hacer carrera en el área Datos! 
 ✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos: programación con lenguaje Python, Data Analytic, Data Science, IA, bases de datos. 🚀
 #
-  🟢2020|Bootcamp de programación básica - lenguaje Python|- Ministerio de trabajo- grupo informaticos Arg. (Remoto)
-  🟢 2022 |DataCamp: Proyecto final Data Science: analisis exploratorio, interpretación estadistica, storytelling. (Repositorio) 
+  - 🟢2020|Bootcamp de programación básica - lenguaje Python|- Ministerio de trabajo- grupo informaticos Arg. (Remoto)
+  - 🟢 2022 |DataCamp: Proyecto final Data Science: analisis exploratorio, interpretación estadistica, storytelling. (Repositorio) 
 #
 ✔️ Actualmente estoy realizando las rutas de aprendizaje de Platzi: Data Analytic, Ingenieria de datos y Data Science. Prácticando SQL, y otros complemento en diferentes páginas webs / talleres.
 
