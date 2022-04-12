@@ -8,7 +8,11 @@
 #
 ✔️ Actualmente estoy realizando las rutas de aprendizaje de Platzi: Data Analytic, Ingenieria de datos y Data Science. Prácticando SQL, y otros complemento en diferentes páginas webs / talleres.
 
-👩‍🎓 Me recibí de Lic en Turismo en el 2019 aprendí habilidades sociales como de oratoria, desarrollo de estrategias, proyectos y trabajé con varios equipos multidisciplinarios- La visión de negocios y toda la experiencia que me dio este sector me permitió ser Co-founder de "Caleta Conectada", junto a dos colegas más donde realizamos trabajos de Consultoría: Marketing, promoción, planificación de proy. Desarrollo de tareas UX writing.
+👩‍🎓 Me recibí de Lic en Turismo en el 2019- ¿Que aprendí? 
+- habilidades sociales como de oratoria 
+- desarrollo de estrategias 
+- planificación de proyectos 
+- trabajé con varios equipos multidisciplinarios- La visión de negocios y toda la experiencia que me dio este sector me permitió ser Co-founder de "Caleta Conectada", junto a dos colegas más donde realizamos trabajos de Consultoría: Marketing, promoción, planificación de proy. Desarrollo de tareas UX writing.
 
 ✔️La razón por la qué decidí especializarmé en el área de Datos, fue porqué las habilidades técnicas que aprenda podría usarlas en proyectos genericos, y como estuve ya involucrada en varios me entusiasma la idea de descubrir nuevos nichos, resolver problemas y ofrecer soluciones con un buen manejo de datos. 
 
