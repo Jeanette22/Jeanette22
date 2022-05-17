@@ -1,22 +1,14 @@
 # Hola!, como estás!? Bienvenido a mi perfil soy Jeanette Mansilla 👩‍💻
 
-### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología e informática. Mi objetivo es hacer carrera en el área de Datos! 
-✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos: programación con lenguaje Python, Data Analytic, Data Science, IA, bases de datos. 🚀
-#
-  - 🟢2020|Bootcamp de programación básica - lenguaje Python|- Ministerio de trabajo- grupo informaticos Arg. (Remoto)
-  - 🟢 2022 |DataCamp: Proyecto final Data Science: analisis exploratorio, interpretación estadistica, storytelling. (Repositorio) 
-#
-✔️ Actualmente estoy realizando las rutas de aprendizaje de Platzi: Data Analytic, Ingenieria de datos y Data Science. Prácticando SQL, y otros complemento en diferentes páginas webs / talleres.
+### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología e informática! 
+✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos en relación a los datos: analisis de negocios, python básico e intermedio, pensamiento probabilistico. 🚀 
 
 👩‍🎓 Me recibí de Lic en Turismo en el 2019- ¿Que aprendí? 
 - habilidades sociales como de oratoria 
 - desarrollo de estrategias 
 - planificación de proyectos 
-- trabajé con varios equipos multidisciplinarios- La visión de negocios y toda la experiencia que me dio este sector me permitió ser Co-founder de "Caleta Conectada", junto a dos colegas más donde realizamos trabajos de Consultoría: Marketing, promoción, planificación de proy. Desarrollo de tareas UX writing.
+- trabajé con varios equipos multidisciplinarios- La visión de negocios y toda la experiencia que me dio este sector me permitió ser Co-founder de "Caleta Conectada", junto a dos colegas más donde realizamos trabajos de Consultoría: Marketing, promoción, planificación de proy. 
 
-✔️La razón por la qué decidí especializarmé en el área de Datos, fue porqué las habilidades técnicas que aprenda podría usarlas en proyectos genericos, y como estuve ya involucrada en varios me entusiasma la idea de descubrir nuevos nichos, resolver problemas y ofrecer soluciones con un buen manejo de datos. 
-
-- La curiosidad por aprender y mejorar las aplico día a día! 😁
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Jeanette22">
@@ -26,7 +18,7 @@
 
 ##
 
-#### Herramientas digitales, tecnologias, lenguajes, librerias que manejo (algunas mejor que otras), y otras mejorando con aprendizaje a diario  🤓: 
+#### Herramientas digitales: 
 
 <div align="center">
   
@@ -40,7 +32,7 @@
   <img align="left" alt="Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="left" alt="Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
   <img align="right"alt="gif" height="100" width="200" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
-</div>
+  img align="right"alt="gif" height="100" width="200" src="https://www.google.com/search?q=figma+icono&sxsrf=ALiCzsbCEDFnzIBocX9l6BEu5rcu65bdXQ:1652797643954&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_-M-D3-b3AhXosJUCHTgFAHsQ_AUoAXoECAEQAw#imgrc=9xI4Ca6PU0wz2M"</div>
   
   
  ##
