@@ -1,7 +1,8 @@
 # Hola!, como estás!? Bienvenido a mi perfil soy Jeanette Mansilla 👩‍💻
 
 ### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología e informática! 
-✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos en relación a los datos: analisis de negocios, python básico e intermedio, pensamiento probabilistico. 🚀 - Lo que más me gustó de este área fue la visualización de datos, la consultoría en gráficas! 
+✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos en relación a los datos: analisis de negocios, python básico e intermedio, pensamiento probabilistico. 🚀 
+- Lo que más me gustó de este área fue la visualización de datos, la consultoría en gráficas & la toma de desiciones.
 
 👩‍🎓 Me recibí de Lic en Turismo en el 2019- ¿Que aprendí? 
 - habilidades sociales como de oratoria 
