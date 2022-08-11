@@ -4,6 +4,7 @@
 ✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos en relación a los datos: analisis de negocios, python básico e intermedio, pensamiento probabilistico. 🚀 
 - Lo que más me gustó de este área fue la visualización de datos, la consultoría en gráficas & la toma de desiciones.
 - Aprendi Python, PowerBI (básico-intermedio), Qlik (basico, con suscripción gratuita), GoogleStudio. 
+- Entusiasta de la mejora continúa de las experiencias de usuarios, comencé a realizar cursos de UX research, UX lead, Usabilidad. 
 
 👩‍🎓 Me recibí de Lic en Turismo en el 2019- ¿Que aprendí? 
 Valoro las habilidades sociales que me dio mi formación y los diferentes trabajos que tuve con varios equipos multidisciplinarios- La visión de negocios y estrategica que me dio este sector me permitió ser Co-founder de "Caleta Conectada", junto a dos colegas más donde realizamos trabajos de Consultoría: Marketing, promoción, planificación de proy. 
