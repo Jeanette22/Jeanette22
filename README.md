@@ -3,12 +3,10 @@
 ### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología e informática! 
 ✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos en relación a los datos: analisis de negocios, python básico e intermedio, pensamiento probabilistico. 🚀 
 - Lo que más me gustó de este área fue la visualización de datos, la consultoría en gráficas & la toma de desiciones.
+- Aprendi Python, PowerBI (básico-intermedio), Qlik (basico, con suscripción gratuita), GoogleStudio. 
 
 👩‍🎓 Me recibí de Lic en Turismo en el 2019- ¿Que aprendí? 
-- habilidades sociales como de oratoria 
-- desarrollo de estrategias 
-- planificación de proyectos 
-- trabajé con varios equipos multidisciplinarios- La visión de negocios y toda la experiencia que me dio este sector me permitió ser Co-founder de "Caleta Conectada", junto a dos colegas más donde realizamos trabajos de Consultoría: Marketing, promoción, planificación de proy. 
+Valoro las habilidades sociales que me dio mi formación y los diferentes trabajos que tuve con varios equipos multidisciplinarios- La visión de negocios y estrategica que me dio este sector me permitió ser Co-founder de "Caleta Conectada", junto a dos colegas más donde realizamos trabajos de Consultoría: Marketing, promoción, planificación de proy. 
 
 
 <div style="display: inline_block"><br>
