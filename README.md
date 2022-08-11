@@ -3,7 +3,7 @@
 ### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología e informática! 
 ✔️Soy técnica en informática. En 2020/21 Comencé a realizar cursos gratuitos en relación a los datos: analisis de negocios, python básico e intermedio, pensamiento probabilistico. 🚀 
 - Lo que más me gustó de este área fue la visualización de datos, la consultoría en gráficas & la toma de desiciones.
-- Aprendi y sigo aprendiendo: Python, PowerBI (básico-intermedio), Qlik (basico, con suscripción gratuita), GoogleStudio, 
+- Herramientas que use en los proyectos: Python, Google Colab, Deepnote, PowerBI (básico-intermedio), Qlik (basico, con suscripción gratuita), GoogleStudio, 
 - Entusiasta de la mejora continúa de las experiencias de usuarios, comencé a realizar cursos de UX research, UX lead, Usabilidad. 
 El último proyecto lo subí acá: https://uxfol.io/a6bd903d (Aplicamos: Okr's, KPI, Insight, JtbD, HMW, backlog, testeo )
 
