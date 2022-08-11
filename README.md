@@ -5,7 +5,7 @@
 - Lo que más me gustó de este área fue la visualización de datos, la consultoría en gráficas & la toma de desiciones.
 - Aprendi Python, PowerBI (básico-intermedio), Qlik (basico, con suscripción gratuita), GoogleStudio. 
 - Entusiasta de la mejora continúa de las experiencias de usuarios, comencé a realizar cursos de UX research, UX lead, Usabilidad. 
-El último proyecto lo subí acá: https://uxfol.io/a6bd903d
+El último proyecto lo subí acá: https://uxfol.io/a6bd903d (Aplicamos: Okr's, KPI, Insight, JtbD, HMW, backlog, testeo )
 
 👩‍🎓 Me recibí de Lic en Turismo en el 2019- ¿Que aprendí? 
 Valoro las habilidades sociales que me dio mi formación y los diferentes trabajos que tuve con varios equipos multidisciplinarios- La visión de negocios y estrategica que me dio este sector me permitió ser Co-founder de "Caleta Conectada", junto a dos colegas más donde realizamos trabajos de Consultoría: Marketing, promoción, planificación de proy. 
