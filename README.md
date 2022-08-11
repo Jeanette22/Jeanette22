@@ -5,7 +5,7 @@
 - Lo que más me gustó de este área fue la visualización de datos, la consultoría en gráficas & la toma de desiciones.
 - Herramientas que use en los proyectos: 
     - Python (Repositorios), 
-    - Google Colab
+    - Google Colab (Perfil: https://colab.research.google.com/drive/1J8GrVkDS2gyw8PCDdbpu6oXSiGI7Nt8z?usp=sharing)
     - Deepnote (Perfil con proyectos realizados: https://deepnote.com/workspace/jeanette-mansilla22crd-63c0520f-11c5-4cfb-8954-72e145bb64e1/project/Proyecto-Data-Academy-6980027d-c8f4-4155-9b70-2bbcaf624b00/%2Ftemplate_proyecto_datacademy.ipynb
     - PowerBI (básico-intermedio: Proyectos en repositorios)
     - Qlik (basico, con suscripción gratuita)
