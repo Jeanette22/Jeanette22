@@ -6,12 +6,12 @@
 - Herramientas que use en los proyectos: 
     - Python (Repositorios), 
     - Google Colab (Perfil: https://colab.research.google.com/drive/1J8GrVkDS2gyw8PCDdbpu6oXSiGI7Nt8z?usp=sharing)
-    - Deepnote (Perfil con proyectos realizados: https://deepnote.com/workspace/jeanette-mansilla22crd-63c0520f-11c5-4cfb-8954-72e145bb64e1/project/Proyecto-Data-Academy-6980027d-c8f4-4155-9b70-2bbcaf624b00/%2Ftemplate_proyecto_datacademy.ipynb
+    - Deepnote (Perfil con proyectos realizados: https://deepnote.com/workspace/jeanette-mansilla22crd-63c0520f-11c5-4cfb-8954-72e145bb64e1/project/Proyecto-Data-Academy-6980027d-c8f4-4155-9b70-2bbcaf624b00/%2Ftemplate_proyecto_datacademy.ipynb)
     - PowerBI (básico-intermedio: Proyectos en repositorios)
     - Qlik (basico, con suscripción gratuita)
-    - GoogleStudio (Perfil con proyectos: https://datastudio.google.com/u/0/reporting/9116b0e7-e854-467e-a17b-f73efc861a82/page/UgWwC
+    - GoogleStudio (Perfil con proyectos: https://datastudio.google.com/u/0/reporting/9116b0e7-e854-467e-a17b-f73efc861a82/page/UgWwC)
     
-- Entusiasta de la mejora continúa de las experiencias de usuarios, comencé a realizar cursos de UX research, UX lead, Usabilidad. 
+- Entusiasta de la mejora continúa de las experiencias de usuarios, comencé a realizar cursos de UX research, lean UX, Usabilidad. 
 El último proyecto lo subí acá: https://uxfol.io/a6bd903d (Aplicamos: Okr's, KPI, Insight, JtbD, HMW, backlog, testeo )
 
 👩‍🎓 Me recibí de Lic en Turismo en el 2019- ¿Que aprendí? 
