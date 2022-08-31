@@ -10,7 +10,7 @@
     - PowerBI: básico-intermedio: Proyectos en repositorios
     - Qlik: basico, sigo aprendiendo con la suscr gratuita
     - GoogleStudio: Perfil con proyectos: https://datastudio.google.com/u/0/reporting/9116b0e7-e854-467e-a17b-f73efc861a82/page/UgWwC
-    - Tableau Public: https://public.tableau.com/app/profile/leticia6418/viz/ProyectoGameofThronesparaDataChallengeGrowUp/Story1
+    - Tableau Public: https://public.tableau.com/app/profile/jeanettecrd
     
 - Entusiasta de la mejora continúa de las experiencias de usuarios, comencé a realizar cursos de UX research, lean UX, Usabilidad. 
 El último proyecto lo subí acá: www.uxfol.io/p/a6bd903d/038ce6d1   (Aplicamos: Okr's, KPI, Insight, JtbD, HMW, backlog, testeo )
