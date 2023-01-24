@@ -1,7 +1,8 @@
 # Hola!, como estás!? Bienvenido a mi perfil soy Jeanette Mansilla 👩‍💻
 
 ### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología e informática! 
-✔️Soy técnica en informática y lic. en turismo. En 2020/21 Comencé a especializarme en el área de datos de a poco, para saber que rama me interesaba. Por eso me involucre en algunos desafíos, proyectos y talleres gratuitos. Después decidí hacer cursos pagos, para continuar mejorando y de paso armar grupos de estudios a modo de intercambio de conocimientos y experiencias. 🚀 
+✔️Soy técnica en informática y lic. en turismo. En 2020/21 Comencé a especializarme en el área de datos de a poco, para saber que rama me interesaba. Por eso me involucre en algunos desafíos, proyectos y talleres gratuitos. Después decidí hacer cursos pagos, para continuar mejorando con grupos de estudios a modo de intercambio de conocimientos y experiencias. 🚀 
+Tengo experiencia en la industria del turismo: atención al público/manejo de grupos/recepción/facturación, mantenimiento de Pc's, educación y marketing/promoción.
 - Herramientas que use en los proyectos: 
     - Python: Trabajos en repositorios
     - Google Colab: Perfil: https://colab.research.google.com/drive/1J8GrVkDS2gyw8PCDdbpu6oXSiGI7Nt8z?usp=sharing
