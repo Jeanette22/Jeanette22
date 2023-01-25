@@ -1,14 +1,17 @@
 # Hola!, como estás!? Bienvenido a mi perfil soy Jeanette Mansilla 👩‍💻
 
-### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología e informática! 
-✔️Soy técnica en informática y lic. en turismo. En 2020/21 Comencé a especializarme en el área de datos de a poco, para saber que rama me interesaba. Por eso me involucre en algunos desafíos, proyectos y talleres gratuitos. Después decidí hacer cursos pagos, para continuar mejorando con grupos de estudios a modo de intercambio de conocimientos y experiencias. 🚀 
-Tengo experiencia en la industria del turismo: atención al público/manejo de grupos/recepción/facturación, mantenimiento de Pc's, educación y marketing/promoción.
-- Herramientas que use en los proyectos: 
-    - Python: Trabajos en repositorios
+### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología y la informática! 
+✔️Soy técnica en informática: En 2020/21 Comencé a especializarme en el área de datos de a poco, para saber que rama me interesaba. Por eso me involucre en algunos desafíos, proyectos y talleres gratuitos. Después decidí hacer cursos pagos, para continuar mejorando con grupos de estudios a modo de intercambio de conocimientos y experiencias. 🚀 
+
+✔️También cuento con experiencia en el sector privado y público en la industria del turismo: 
+En este camino ejercí la docencia, marketing de productos turistico/ Co Founder, guia /preventora de travesía, coordinación y manejo de grupos, asistente administrativo y agente de viajes.
+Una de mis mayores fortaleza es mi concentración hacia algún tema de interés que tenga. 
+
+✔️Actualmente soy docente, cuento con 3 años de experiencia. Este rol me ayudó a incorporar herramientas pedagógicas, y apliqué lo que aprendí en mi carrera sobre habilidades para el manejo de grupos, oratoria, organización con un perfil resolutivo. 
+
+- Proyectos realizado en otras plataformas online: 
     - Google Colab: Perfil: https://colab.research.google.com/drive/1J8GrVkDS2gyw8PCDdbpu6oXSiGI7Nt8z?usp=sharing
     - Deepnote: Perfil con proyectos realizados: https://deepnote.com/workspace/jeanette-mansilla22crd-63c0520f-11c5-4cfb-8954-72e145bb64e1/project/Proyecto-Data-Academy-6980027d-c8f4-4155-9b70-2bbcaf624b00/%2Ftemplate_proyecto_datacademy.ipynb
-    - PowerBI: básico-intermedio: Proyectos en repositorios
-    - Qlik: basico, sigo aprendiendo con la suscr gratuita
     - GoogleStudio: Perfil con proyectos: https://datastudio.google.com/u/0/reporting/9116b0e7-e854-467e-a17b-f73efc861a82/page/UgWwC
     - Tableau Public: https://public.tableau.com/app/profile/jeanettecrd
     
