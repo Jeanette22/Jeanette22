@@ -8,8 +8,9 @@ En este camino ejercí la docencia, marketing de productos turistico/ Co Founder
 Una de mis mayores fortaleza es mi concentración hacia algún tema de interés que tenga. 
 
 ✔️Actualmente soy docente, cuento con 3 años de experiencia. Este rol me ayudó a incorporar herramientas pedagógicas, y apliqué lo que aprendí en mi carrera sobre habilidades para el manejo de grupos, oratoria, organización con un perfil resolutivo. 
+_______________________________________________________________________________________________________________________________________________________________
 
-🎯ObjEtivo: Tengo los conocimientos necesarios para llevar adelante proyectos de data con el uso de las tecnologías mencionadas en mis repositorios, e incoporar lo que sea necesario para resolver los desafios que se me presenten. Para esto, busco una oportunidad laboral que me brinde crecimiento profesional dentro de la empresa y capacitaciones. 
+🎯Objetivo: Tengo los conocimientos necesarios para llevar adelante proyectos de data con el uso de las tecnologías mencionadas en mis repositorios, e incoporar lo que sea necesario para resolver los desafios que se me presenten. Para esto, busco una oportunidad laboral que me brinde crecimiento profesional dentro de la empresa y capacitaciones. 
     
 
 <div style="display: inline_block"><br>
