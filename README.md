@@ -1,5 +1,3 @@
-# Hola!, como estás!? Bienvenido a mi perfil soy Jeanette Mansilla 👩‍💻
-
 ### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología y la informática! 
 ✔️Técnica en informática: Durante el año 2020/21 Comencé a especializarme en el área de datos de a poco, para saber que rama me interesaba. Por eso me involucre en algunos desafíos, proyectos y talleres gratuitos. Después decidí hacer cursos pagos, para continuar mejorando con grupos de estudios a modo de intercambio de conocimientos y experiencias. 🚀 
 
