@@ -9,11 +9,7 @@ Una de mis mayores fortaleza es mi concentración hacia algún tema de interés 
 
 ✔️Actualmente soy docente, cuento con 3 años de experiencia. Este rol me ayudó a incorporar herramientas pedagógicas, y apliqué lo que aprendí en mi carrera sobre habilidades para el manejo de grupos, oratoria, organización con un perfil resolutivo. 
 
-- Proyectos realizado en otras plataformas online: 
-    - Google Colab: Perfil: https://colab.research.google.com/drive/1J8GrVkDS2gyw8PCDdbpu6oXSiGI7Nt8z?usp=sharing
-    - Deepnote: Perfil con proyectos realizados: https://deepnote.com/workspace/jeanette-mansilla22crd-63c0520f-11c5-4cfb-8954-72e145bb64e1/project/Proyecto-Data-Academy-6980027d-c8f4-4155-9b70-2bbcaf624b00/%2Ftemplate_proyecto_datacademy.ipynb
-    - GoogleStudio: Perfil con proyectos: https://datastudio.google.com/u/0/reporting/9116b0e7-e854-467e-a17b-f73efc861a82/page/UgWwC
-    - Tableau Public: https://public.tableau.com/app/profile/jeanettecrd
+🎯Obejtivo: Tengo los conocimientos necesarios para llevar adelante proyectos de data con el uso de las tecnologías mencionadas en mis repositorios, e incoporar lo que sea necesario para resolver los desafios que se me presenten. Para esto, busco una oportunidad laboral que me brinde crecimiento profesional dentro de la empresa y capacitaciones. 
     
 
 <div style="display: inline_block"><br>
