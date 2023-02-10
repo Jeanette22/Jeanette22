@@ -1,9 +1,9 @@
 ### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología y la informática! 
-✔️Técnica en informática: Durante el año 2020/21 Comencé a especializarme en el área de datos de a poco, para saber que rama me interesaba. Por eso me involucre en algunos desafíos, proyectos y talleres gratuitos. Después decidí hacer cursos pagos, para continuar mejorando con grupos de estudios a modo de intercambio de conocimientos y experiencias. 🚀 
+✔️Técnica en informática: Durante el año 2020/21 Comencé a especializarme en el área de datos de a poco, para saber que rama me interesaba. Por eso me involucre en algunos desafíos, proyectos y talleres gratuitos. Después decidí hacer cursos pagos, para continuar mejorando con grupos de estudios a modo de intercambio de conocimientos y experiencias. Tuve experiencia en mantenimiento de PC's, como docente en informatica, asistente digital/data entry... 🚀 
 
 ✔️Licenciada en turismo: Cuento con experiencia en el sector privado y público en la industria del turismo: 
 En este camino ejercí la docencia, marketing de productos turistico/ Co Founder, guia /preventora de travesía, coordinación y manejo de grupos, asistente administrativo y agente de viajes.
-Una de mis mayores fortaleza es mi concentración hacia algún tema de interés que tenga. 
+Una de mis mayores fortaleza es mi concentración hacia algún tema de interés que tenga, y la disciplina para el aprendizaje. Más alla de estudiar herramientas elementales, por curiosidad profundizó temas de interés. 
 
 ✔️Actualmente soy docente, cuento con 3 años de experiencia. Este rol me ayudó a incorporar herramientas pedagógicas, y apliqué lo que aprendí en mi carrera sobre habilidades para el manejo de grupos, oratoria, organización con un perfil resolutivo. 
 _______________________________________________________________________________________________________________________________________________________________
