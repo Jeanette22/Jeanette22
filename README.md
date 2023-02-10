@@ -11,6 +11,13 @@ ________________________________________________________________________________
 
 🎯Objetivo: Tengo los conocimientos necesarios para llevar adelante proyectos de data con el uso de las tecnologías mencionadas en mis repositorios, e incoporar lo que sea requerido para resolver los desafios que se me presenten. Para esto, busco una oportunidad laboral que me brinde crecimiento profesional dentro de la empresa y capacitaciones. 
     
+________________________________________________________________________________________________________________________________________________________________
+🌄🏃‍♀️Hobbies:
+Me encantan los deportes, práctico Trail Running. Me ayuda a oxigenar mi cerebro, salud mental, disciplina y desafíos. 
+
+
+
+
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Jeanette22">
