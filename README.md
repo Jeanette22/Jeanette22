@@ -12,7 +12,7 @@ ________________________________________________________________________________
     
 ________________________________________________________________________________________________________________________________________________________________
 🌄🏃‍♀️Hobbies:
-Me encantan los deportes, práctico Trail Running. Me ayuda a oxigenar mi cerebro, salud mental, disciplina y desafíos. 
+Me encantan los deportes, práctico Trail Running.  
 
 
 
