@@ -3,8 +3,7 @@
 
 ✔️Licenciada en turismo: Cuento con experiencia en el sector privado y público en la industria del turismo: 
 En este camino ejercí la docencia, marketing de productos turistico/ Co Founder, guia /preventora de travesía, coordinación y manejo de grupos, asistente administrativo y agente de viajes.
-Una de mis mayores fortaleza es mi concentración hacia algún tema de interés que tenga, y la disciplina para el aprendizaje. 
-Más alla de estudiar herramientas elementales, profundizar temas de interés por simple curiosidad es uno de mis hobbies preferidos. 
+Me apasiona la innovación y junto a dos colegas realizamos un proyecto llamado "CaletaConectada" para lanzar un destino alternativo apostando a la digitalización de los emprendimiento locales del barrio, y favorecer la promocion de recursos naturales del lugar. 
 
 ✔️Actualmente soy docente, cuento con 3 años de experiencia. Este rol me ayudó a incorporar herramientas pedagógicas, y apliqué lo que aprendí en mi carrera sobre habilidades para el manejo de grupos, oratoria, organización con un perfil resolutivo. 
 _______________________________________________________________________________________________________________________________________________________________
