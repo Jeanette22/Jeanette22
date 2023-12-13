@@ -32,11 +32,11 @@ Me encantan los deportes, práctico Trail Running.
   
   <img align="left" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">         
   <img align="left" alt="Wordpress" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-  <img align="left" alt="Vscode" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="left" alt="Markdown" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
   <img align="left" alt="sql" height="60" width="80" src="https://github.com/Jeanette22/Jeanette22/assets/80054717/6239c45e-2113-49f6-9f1f-993d39929cbe.png">
   <img align="left" alt="Markdown" height="60" width="80" src="https://simpleicons.org/icons/tableau.svg"> 
-   <img align="left" alt="Markdown" height="50" width="90" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg"> 
+  <img align="left" alt="Markdown" height="50" width="90" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg"> 
+   <img align="left" alt="Markdown" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
   
  ##
  ##
