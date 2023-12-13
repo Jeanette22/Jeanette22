@@ -1,4 +1,4 @@
-### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología y la informática! 
+![image](https://github.com/Jeanette22/Jeanette22/assets/80054717/74b1b8d9-c2d7-40df-a1bc-fe3f802248c4)### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología y la informática! 
 ✔️Técnica en informática: Durante el año 2020/21 Comencé a especializarme en el área de datos de a poco, para saber que rama me interesaba. Por eso me involucre en algunos desafíos, proyectos y talleres gratuitos. Después decidí hacer cursos pagos, para continuar mejorando con grupos de estudios a modo de intercambio de conocimientos y experiencias. Tuve experiencia en mantenimiento de PC's, como docente en informatica, asistente digital/data entry... 🚀 
 
 ✔️Licenciada en turismo: Cuento con experiencia en el sector privado y público en la industria del turismo: 
@@ -34,7 +34,8 @@ Me encantan los deportes, práctico Trail Running.
   <img align="left" alt="Wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
   <img align="left" alt="Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="left" alt="Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
-  <img align="left" alt="Markdown" height="30" width="40" src="https://icons8.com/icon/Lk9yC4HS5r3p/sql.svg" />
+  <img align="left" alt="Markdown" height="30" width="40" src="![image](https://github.com/Jeanette22/Jeanette22/assets/80054717/6239c45e-2113-49f6-9f1f-993d39929cbe)
+" />
 
   
   
