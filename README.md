@@ -1,4 +1,4 @@
-![image](https://github.com/Jeanette22/Jeanette22/assets/80054717/74b1b8d9-c2d7-40df-a1bc-fe3f802248c4)### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología y la informática! 
+### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología y la informática! 
 ✔️Técnica en informática: Durante el año 2020/21 Comencé a especializarme en el área de datos de a poco, para saber que rama me interesaba. Por eso me involucre en algunos desafíos, proyectos y talleres gratuitos. Después decidí hacer cursos pagos, para continuar mejorando con grupos de estudios a modo de intercambio de conocimientos y experiencias. Tuve experiencia en mantenimiento de PC's, como docente en informatica, asistente digital/data entry... 🚀 
 
 ✔️Licenciada en turismo: Cuento con experiencia en el sector privado y público en la industria del turismo: 
