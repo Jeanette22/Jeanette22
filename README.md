@@ -35,7 +35,7 @@ Me encantan los deportes, práctico Trail Running.
   <img align="left" alt="Vscode" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="left" alt="Markdown" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
   <img align="left" alt="Markdown" height="60" width="80" src="https://github.com/Jeanette22/Jeanette22/assets/80054717/6239c45e-2113-49f6-9f1f-993d39929cbe.png">
-  <img align="left" alt="Markdown" height="60" width="80" src="https://iconscout.com/free-icon/tableau-software-5376636.svg"> 
+  <img align="left" alt="Markdown" height="60" width="80" src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/tableau-full-logo.png"> 
   
   
  ##
