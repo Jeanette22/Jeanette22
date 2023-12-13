@@ -35,7 +35,7 @@ Me encantan los deportes, práctico Trail Running.
   <img align="left" alt="Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="left" alt="Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
   <img align="right"alt="gif" height="100" width="200" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
-
+  <img align="right"alt="gif" height="100" width="200" src="https://1000marcas.net/tableau-logo/">
   
   
  ##
