@@ -34,8 +34,7 @@ Me encantan los deportes, práctico Trail Running.
   <img align="left" alt="Wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
   <img align="left" alt="Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="left" alt="Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
-  <img align="left" alt="Markdown" height="30" width="40" src="![image](https://github.com/Jeanette22/Jeanette22/assets/80054717/6239c45e-2113-49f6-9f1f-993d39929cbe)
-" />
+  <img align="left" alt="Markdown" height="30" width="40" src="https://github.com/Jeanette22/Jeanette22/assets/80054717/6239c45e-2113-49f6-9f1f-993d39929cbe.png">
 
   
   
