@@ -27,7 +27,7 @@ Me encantan los deportes, práctico Trail Running.
 ##
 
 ### 🖥️​ TECH STACK - HERRAMIENTAS DIGITALES 🖥️​: 
-  </div> 
+</div> 
   <img align="left" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">         
   <img align="left" alt="Wordpress" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
   <img align="left" alt="Markdown" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
