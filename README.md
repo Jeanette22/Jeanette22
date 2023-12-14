@@ -39,7 +39,7 @@ Me encantan los deportes, práctico Trail Running.
   <img align="left" alt="Markdown" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
   <img align="left" alt="Markdown" height="60" width="80" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png">
   <img align="left" alt="Markdown" height="90" width="120" src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg">
-  <img align="left" alt="Markdown" height="70" width="120" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo-1280x664.png">
+  <img align="left" alt="Markdown" height="70" width="120" src="https://1000marcas.net/wp-content/uploads/2021/06/PostgreSQL-Logo-1024x640.png">
 
 
 
