@@ -38,6 +38,7 @@ Me encantan los deportes, práctico Trail Running.
   <img align="left" alt="Markdown" height="50" width="90" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg"> 
   <img align="left" alt="Markdown" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
   <img align="left" alt="Markdown" height="70" width="90" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png">
+  <img align="left" alt="Markdown" height="70" width="90" src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg">
 
 
   
