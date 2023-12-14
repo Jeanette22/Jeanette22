@@ -32,7 +32,7 @@ Me encantan los deportes, práctico Trail Running.
   <img align="left" alt="Rafa-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">         
   <img align="left" alt="Wordpress" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
   <img align="left" alt="Markdown" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
-  <img align="left" alt="sql" height="30" width="50" src="https://github.com/Jeanette22/Jeanette22/assets/80054717/6239c45e-2113-49f6-9f1f-993d39929cbe.png">
+  <img align="left" alt="sql" height="40" width="50" src="https://github.com/Jeanette22/Jeanette22/assets/80054717/6239c45e-2113-49f6-9f1f-993d39929cbe.png">
   <img align="left" alt="tableau" height="60" width="120" src="https://dev3lop.com/wp-content/uploads/2017/04/tableau-logo-tableau-software.jpg"> 
   <img align="left" alt="Markdown" height="50" width="90" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg"> 
   <img align="left" alt="Markdown" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
