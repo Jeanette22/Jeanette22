@@ -1,22 +1,14 @@
-### Me destaco por ser apasionada y comprometida con todo lo que hago!, también por mi gusto personal de la tecnología y la informática! 
-✔️Técnica en informática: Durante el año 2020/21 Comencé a especializarme en el área de datos de a poco, para saber que rama me interesaba. Por eso me involucre en algunos desafíos, proyectos y talleres gratuitos. Después decidí hacer cursos pagos, para continuar mejorando con grupos de estudios a modo de intercambio de conocimientos y experiencias. Tuve experiencia en mantenimiento de PC's, como docente en informatica, asistente digital/data entry... 🚀 
+## Sobre mi / about me: 
+
+Hola! Soy Jeanette 👩🏻‍💻 ⁣⁣
+⁣⁣Actualmente trabajo como profe en investigación e introduccion al turismo, en gestión y consultoría de proyectos de inversión. Realice varios proyectos de posicionamiento de productos y destinos nuevos al mercado, logrando con éxito su visibilidad y alcance de objetivos. También profundicé sobre lógica computacional y algoritmos desde lenguajes de programación como Python y R, para trabajar sobre analitica de datos. 
+Gracias al bootcamp de data engineer que realicé amplie mis conocimientos en automatizacion de data, y recientemente termine una certificación de 'Análisis de Datos de Google', con un proyecto final aplicando las herramientas vistas (Beca obtenida por The Brigde - Inco Academy), destaco mi gusto personal por la visualizacion de data y el inteligencia de negocios para la toma de desiciones desde los resultados obtenidos de la limpieza, analisis y dashboards creados. 
+
+✔️Técnica en informática: Tuve experiencia en mantenimiento de PC's, como docente en informatica, asistente digital/data entry... 🚀 
 
 ✔️Licenciada en turismo: Cuento con experiencia en el sector privado y público en la industria del turismo: 
 En este camino ejercí la docencia, marketing de productos turistico/ Co Founder, guia /preventora de travesía, coordinación y manejo de grupos, asistente administrativo y agente de viajes.
-Me apasiona la innovación y junto a dos colegas realizamos un proyecto llamado "CaletaConectada" , con el objetivo de lanzar un destino alternativo apostando a la digitalización de los emprendimiento del barrio, posicionamiento y favorecer la promocion de recursos naturales del lugar. Con la intención de cambiar la realidad del contexto de ese momento.
-
-✔️Actualmente soy docente, cuento con 3 años de experiencia. Este rol me ayudó a incorporar herramientas pedagógicas, y apliqué lo que aprendí en mi carrera sobre habilidades para el manejo de grupos, oratoria, organización con un perfil resolutivo. 
 _______________________________________________________________________________________________________________________________________________________________
-
-🎯Objetivo: Tengo los conocimientos necesarios para llevar adelante proyectos de data con el uso de las tecnologías mencionadas en mis repositorios, e incoporar lo que sea requerido para resolver los desafios que se me presenten. Para esto, busco una oportunidad laboral que me brinde crecimiento profesional dentro de la empresa y capacitaciones. 
-    
-________________________________________________________________________________________________________________________________________________________________
-🌄🏃‍♀️Hobbies:
-Me encantan los deportes, práctico Trail Running.  
-
-
-
-
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Jeanette22">
