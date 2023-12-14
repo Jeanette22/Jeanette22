@@ -40,6 +40,7 @@ Me encantan los deportes, práctico Trail Running.
   <img align="left" alt="Markdown" height="60" width="80" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png">
   
 ###
+##
 <div align="center">
     
   <img align="left" alt="Markdown" height="90" width="120" src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg">
