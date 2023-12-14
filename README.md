@@ -27,7 +27,7 @@ Me encantan los deportes, práctico Trail Running.
 ##
 
 ### 🖥️​ TECH STACK - HERRAMIENTAS DIGITALES 🖥️​: 
-  
+  </div> 
   <img align="left" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">         
   <img align="left" alt="Wordpress" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
   <img align="left" alt="Markdown" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
@@ -41,6 +41,7 @@ Me encantan los deportes, práctico Trail Running.
   <img align="left" alt="Markdown" height="50" width="90" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Logo-700x394.png">
   <img align="left" alt="Markdown" height="50" width="90" src="https://blog.ikhuerta.com/wp-content/uploads/2016/10/google-data-studio-logo-1.jpg">
 
+</div>
 ##
 ##
 ##
