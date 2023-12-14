@@ -39,6 +39,10 @@ Me encantan los deportes, práctico Trail Running.
   <img align="left" alt="Markdown" height="50" width="90" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Logo-700x394.png">
   <img align="left" alt="Markdown" height="70" width="150" src="https://blog.ikhuerta.com/wp-content/uploads/2016/10/google-data-studio-logo-1.jpg">
   <img align="left" alt="Markdown" height="90" width="120" src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg">
+
+
+
+
 ##
 ##
 ##
