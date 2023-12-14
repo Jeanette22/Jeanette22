@@ -26,7 +26,7 @@ Me encantan los deportes, práctico Trail Running.
 
 ##
 
-#### Herramientas digitales: 
+### 🖥️​ TECH STACK - HERRAMIENTAS DIGITALES 🖥️​: 
 
 <div align="center">
   
