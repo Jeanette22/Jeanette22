@@ -1,7 +1,7 @@
 ## Sobre mi / about me: 
 
 Hola! Soy Jeanette 👩🏻‍💻 ⁣⁣
-⁣⁣Actualmente trabajo como profe en investigación e introduccion al turismo, en gestión y consultoría de proyectos de inversión. Realice varios proyectos de posicionamiento de productos y destinos nuevos al mercado, logrando con éxito su visibilidad y alcance de objetivos. También profundicé sobre lógica computacional y algoritmos desde lenguajes de programación como Python y R, para trabajar sobre analitica de datos. 
+⁣⁣Actualmente trabajo como profe en investigación e introduccion al turismo, también en gestión y consultoría de proyectos de inversión. Realice varios proyectos de posicionamiento de productos y destinos nuevos al mercado, logrando con éxito su visibilidad y alcance de objetivos. También profundicé sobre lógica computacional y algoritmos desde lenguajes de programación como Python y R, para trabajar sobre analitica de datos. 
 Gracias al bootcamp de data engineer que realicé amplie mis conocimientos en automatizacion de data, y recientemente termine una certificación de 'Análisis de Datos de Google', con un proyecto final aplicando las herramientas vistas (Beca obtenida por The Brigde - Inco Academy), destaco mi gusto personal por la visualizacion de data y el inteligencia de negocios para la toma de desiciones desde los resultados obtenidos de la limpieza, analisis y dashboards creados. 
 
 ✔️Técnica en informática: Tuve experiencia en mantenimiento de PC's, como docente en informatica, asistente digital/data entry... 🚀 
