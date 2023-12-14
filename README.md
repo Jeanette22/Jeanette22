@@ -43,14 +43,12 @@ Me encantan los deportes, práctico Trail Running.
 
 
 
-
-
-
-
-
-
-
-  
+ ##
+ ##
+ ##
+ ##
+ ##
+ ##
  ##
  ##
  ##
