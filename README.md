@@ -36,7 +36,7 @@ Me encantan los deportes, práctico Trail Running.
   <img align="left" alt="tableau" height="60" width="120" src="https://dev3lop.com/wp-content/uploads/2017/04/tableau-logo-tableau-software.jpg"> 
   <img align="left" alt="Markdown" height="40" width="90" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg"> 
   <img align="left" alt="Markdown" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
-  <img align="left" alt="Markdown" height="40" width="60" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png">
+  <img align="left" alt="Markdown" height="50" width="80" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png">
   <img align="left" alt="Markdown" height="70" width="100" src="https://1000marcas.net/wp-content/uploads/2021/06/PostgreSQL-Logo-1024x640.png">
   <img align="left" alt="Markdown" height="30" width="50" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Logo-700x394.png">
   <img align="left" alt="Markdown" height="60" width="140" src="https://blog.ikhuerta.com/wp-content/uploads/2016/10/google-data-studio-logo-1.jpg">
