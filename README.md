@@ -5,7 +5,9 @@ Hola! Soy Jeanette 👩🏻‍💻 ⁣⁣
 
 También profundicé sobre lógica computacional y algoritmos desde lenguajes de programación como Python y R, para trabajar sobre analitica de datos. 
   
-Gracias al bootcamp de data engineer que realicé amplie mis conocimientos en automatizacion de data, y recientemente termine una certificación de 'Análisis de Datos de Google', con un proyecto final aplicando las herramientas vistas (Beca obtenida por The Brigde - Inco Academy), destaco mi gusto personal por la visualizacion de data y el inteligencia de negocios para la toma de desiciones desde los resultados obtenidos de la limpieza, analisis y dashboards creados. 
+Gracias al bootcamp de data engineer que realicé amplie mis conocimientos en automatizacion de data, y recientemente termine una certificación de 'Análisis de Datos de Google', con un proyecto final aplicando las herramientas vistas (Beca obtenida por The Brigde - Inco Academy), Mi interés personal se centra en la visualización de datos y la inteligencia de negocios para la toma de decisiones, destacando la creación de dashboards a partir de la limpieza y análisis de datos.
+
+¡Estoy entusiasmada por seguir creciendo en el mundo del análisis de datos y la visualización!" 
 <justify>
 
 #
