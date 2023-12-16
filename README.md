@@ -7,11 +7,18 @@ Gracias al bootcamp de data engineer que realicé amplie mis conocimientos en au
 
 #
 
-✔️Técnica en informática: Tuve experiencia en mantenimiento de PC's, como docente en informatica, asistente digital/data entry... 🚀 
+👩‍💻 **Técnica en Informática:**
+- Experiencia en mantenimiento de PC's.
+- Docente en informática.
+- Asistente digital y data entry.
 
-✔️Licenciada en turismo: Cuento con experiencia en el sector privado y público en la industria del turismo: 
-En este camino ejercí la docencia, marketing de productos turistico/ Co Founder, guia /preventora de travesía, coordinación y manejo de grupos, asistente administrativo y agente de viajes.
-_______________________________________________________________________________________________________________________________________________________________
+🌐 **Licenciada en Turismo:**
+- Experiencia en el sector privado y público de la industria turística.
+- Roles incluyen docencia, marketing de productos turísticos, co-fundadora, guía/preventora de travesías, coordinación y manejo de grupos, asistente administrativo y agente de viajes.
+
+🚀 **Objetivo Actual:**
+Busco oportunidades en el campo de Data Analytics, fusionando mi experiencia técnica con mi trasfondo en turismo para un enfoque analítico integral.
+__________________________________________________________________________________________________________________________________________
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Jeanette22">
@@ -39,13 +46,7 @@ ________________________________________________________________________________
   <img align="left" alt="Markdown" height="50" width="90" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg">
 
 
-##
-######
-##
-##
-##
-######
-##
+#
  ## CONTACTO:  
 </div> 
  <a href = "mailto:leticiajmansilla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
